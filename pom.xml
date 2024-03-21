@@ -83,6 +83,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>questionario-api</finalName>
 	</build>
 
 </project>
