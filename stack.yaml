@@ -1,5 +1,5 @@
 services:
-  postgres-empresa:
+  postgres-pergunta:
     image: postgres
     container_name: postgres-pergunta
     environment:
