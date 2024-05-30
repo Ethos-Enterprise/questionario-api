@@ -10,6 +10,7 @@ public class QuestionarioApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QuestionarioApiApplication.class, args);
+		System.out.println("Teste watchtower");
 	}
 
 }
